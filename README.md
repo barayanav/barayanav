@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Bastián 👋
 ### Python Developer · Backend · GCP · Automatización
 
